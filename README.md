@@ -38,7 +38,7 @@ Key Projects:
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syeda-tasnim-fabiha/)  
-[![Google Scholar](https://img.shields.io/badge/Scholar-Google-red?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=SttyU-4AAAAJ&hl=en)  
+![Google Scholar](https://img.shields.io/badge/Scholar-Google-red?style=flat&logo=google-scholar)(https://scholar.google.com/citations?user=SttyU-4AAAAJ&hl=en)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tasnim_fabiha)  
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3939811/tasnim-fabiha)  
 
