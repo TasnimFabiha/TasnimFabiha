@@ -8,7 +8,7 @@
 
 ---
 
-## 🧪 Current Research
+<-- ## 🧪 Current Research
 
 - 🔧 **Modularizing Legacy Systems**  
   Developing a reinforcement learning framework to transform monolithic architectures into scalable microservices, using cohesion and coupling as modularization metrics.
@@ -18,7 +18,8 @@
 
 - 🏥 **Clinical AI Research**  
   Collaborated with Keck Medicine of USC to predict hospital-acquired infections (HAIs) using neuro ICU time-series data.
-
+-->
+  
 ---
 
 ## 🏢 Past Industry Roles
