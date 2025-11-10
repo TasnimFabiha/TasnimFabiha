@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Syeda Tasnim Fabiha
+# 👋 Hi, I’m Fabiha
 
 🎓 PhD Student in Computer Science at **University of Southern California**  
 🔬 Researcher | Software Engineer | AI for SE Enthusiast  
