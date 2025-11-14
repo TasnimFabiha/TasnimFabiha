@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fabiha
 
-🎓 PhD Student in Computer Science at **University of Southern California**  
+🎓 PhD Candidate in CS at **University of Southern California**  
 🔬 Researcher | Software Engineer | AI for SE Enthusiast  
 📍 Working at the intersection of **software modularity**, **security**, and **machine learning**
 
