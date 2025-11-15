@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Fabiha
 
 🎓 PhD Candidate in CS at **University of Southern California**  
-🔬 Researcher | Software Engineer | AI for SE Enthusiast | 🌐 [Personal Website](https://tasnimfabiha.github.io/)
+🔬 Researcher | Software Engineer | AI for SE Enthusiast |
+🌐 [Personal Website](https://tasnimfabiha.github.io/)
+
 📍 Working at the intersection of **software modularity**, **security**, and **machine learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TasnimFabiha&color=blue)
